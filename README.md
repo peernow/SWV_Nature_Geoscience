@@ -4,7 +4,7 @@ Uses Anaconda 3 and Python 3.8.8 throughout.
 
 Jupyter-notebooks to run through key steps of the paper
 
-Nowack et al. Response of stratospheric water vapour to global warming constrained by satellite observations. under review in Nature Geoscience (2023)
+Nowack et al. Response of stratospheric water vapour to global warming constrained by satellite observations. under review in Nature Geoscience (2023).
 
 These notebooks are:
 
