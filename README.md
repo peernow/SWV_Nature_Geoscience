@@ -29,3 +29,7 @@ In this notebook, we first train ridge regressions on 150 pairs of reanalysis/SW
 4) constraint_calculations_from_ridge_60NS.ipynb
 
 Notebook to calculate the observational constraint on the SWV responses, in support of Figure 2 in the paper.
+
+5) notebook_in_support_of_Fig3_ExtDataFig2.ipynb
+
+Notebook to create Figure 3 and the subfigures for Extended Data Figure 2, using results calculated in the previous notebooks.
