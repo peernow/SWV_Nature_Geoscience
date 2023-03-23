@@ -8,7 +8,7 @@ Nowack et al. Response of stratospheric water vapour to global warming constrain
 
 These notebooks are:
 
-1) create_SWOOSH_time_series.ipynb
+1) create_SWOOSH_time_series.ipynb\newline
 In this notebook, the SWOOSH data is pre-processed according to the description in the Methods section of the paper. For example, this concerns masking periods of missing or unreliable data, and estimating uncertainties introduced by sampling irregularities.
 
 2) CMIP_models_ridge_training_T60NS_5plevs.ipynb
