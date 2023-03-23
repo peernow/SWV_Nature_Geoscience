@@ -21,3 +21,6 @@ In this notebook, we first train ridge regressions on 150 pairs of reanalysis/SW
 (c) combining the 150 observational functions with the CMIP model temperature responses.
 
 (c) are observationally constrained 4xCO2 projections, which form a part of the overall observational constraint.
+
+4) constraint_calculations_from_ridge_60NS.ipynb
+Notebook to calculate the observational constraint on the SWV responses, in support of Figure 2 in the paper.
