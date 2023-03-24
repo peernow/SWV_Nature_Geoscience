@@ -33,3 +33,7 @@ Notebook to calculate the observational constraint on the SWV responses, in supp
 5) notebook_in_support_of_Fig3_ExtDataFig2.ipynb
 
 Notebook to create Figure 3 and the subfigures for Extended Data Figure 2, using results calculated in the previous notebooks.
+
+6) Figure4_S9-S15.ipynb
+
+Notebook to create Figure 4 and Supplementary Figures 9 to 15.
