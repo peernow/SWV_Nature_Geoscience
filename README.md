@@ -37,3 +37,7 @@ Notebook to create Figure 3 and the subfigures for Extended Data Figure 2, using
 6) Figure4_S9-S15.ipynb
 
 Notebook to create Figure 4 and Supplementary Figures 9 to 15.
+
+7) Figures_S1_S2.ipynb
+
+Notebook to create Supplementary Figures 1 and 2.
