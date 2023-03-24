@@ -45,3 +45,7 @@ Notebook to create Supplementary Figures 1 and 2.
 8) Figure_S3.ipynb
 
 Notebook to create Supplementary Figure 3.
+
+9) Figures_S4-S7.ipynb
+
+Notebook to create Supplementary Figures S4 to S7.
