@@ -6,7 +6,9 @@ Jupyter-notebooks to run through key steps of the paper
 
 Nowack et al. Response of stratospheric water vapour to warming constrained by satellite observations. under review in Nature Geoscience (2023).
 
-These notebooks are:
+The 'data' folder used in the notebooks can be downloaded from doi:10.6084/m9.figshare.22335712
+
+The notebooks are:
 
 1) create_SWOOSH_time_series.ipynb
 
